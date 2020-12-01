@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Florencia</h1>
-<h3 align="center">A passionate full stack web developer from Tucuman, Argentina</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
