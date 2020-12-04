@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Florencia</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">I'm Full Stack Web Developer from Argentina</h3>
 
 
 ## Languages and Tools:
